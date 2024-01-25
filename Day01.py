@@ -20,7 +20,7 @@ print(type({9.8, 3.14, 2.7}))    # Set
 print(type((9.8, 3.14, 2.7)))    # Tuple
 
 
-print("hello world")
+print("hello world") #"" used bcz this is string
 Result= hello world
-print(5)
+print(5) #"" nit used bcz this is int
 Result= 5
