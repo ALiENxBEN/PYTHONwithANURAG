@@ -1,3 +1,3 @@
-#HELLO WORLD
+#HELLO WORLD (if we use # before then python ignores that and dont run that)
 print("hello world")
-> hello world
+Result= hello world
