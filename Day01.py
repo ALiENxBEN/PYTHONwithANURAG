@@ -1,6 +1,6 @@
 print("hello world") #"" used bcz this is string
 Result= hello world
-print(5) #"" nit used bcz this is int
+print(5) #""  used bcz this is int
 Result= 5
 
 integer_example = 5 # This is an integer
