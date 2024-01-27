@@ -1,3 +1,15 @@
+print("hello world") #"" used bcz this is string
+Result= hello world
+print(5) #"" nit used bcz this is int
+Result= 5
+
+integer_example = 5 # This is an integer
+float_example= 3.14 # This is a float
+string_example = "Hello, World!" # This is a string
+boolean_example = True # This is a boolean
+
+
+
 #HELLO WORLD (if we use # before then python ignores that and dont run that)
 
 print(2 + 3)   # addition(+)
@@ -19,13 +31,4 @@ print(type({'name':'Asabeneh'})) # Dictionary
 print(type({9.8, 3.14, 2.7}))    # Set
 print(type((9.8, 3.14, 2.7)))    # Tuple
 
-integer_example = 5 # This is an integer
-float_example= 3.14 # This is a float
-string_example = "Hello, World!" # This is a string
-boolean_example = True # This is a boolean
 
-
-print("hello world") #"" used bcz this is string
-Result= hello world
-print(5) #"" nit used bcz this is int
-Result= 5
